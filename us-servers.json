@@ -1,0 +1,17 @@
+{
+    "servers": [
+        {
+            "name" : "Whitemane",
+            "houses" : ["alliance", "horde", "neutral"]
+        },
+        {
+            "name" : "Mankrik",
+            "houses" : ["alliance", "horde", "neutral"]
+        },
+        {
+            "name" : "Azuresong",
+            "houses" : ["alliance", "horde", "neutral"]
+        }
+        
+    ]
+}

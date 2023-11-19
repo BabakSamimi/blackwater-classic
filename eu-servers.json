@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "name" : "Mirage+Raceway",
+            "houses" : ["alliance", "horde", "neutral"]
+        },
+        {
+            "name" : "Firemaw",
+            "houses" : ["alliance", "horde", "neutral"]
+        }
+    ]
+}

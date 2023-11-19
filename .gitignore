@@ -1,0 +1,6 @@
+*.log
+*.oauth
+
+data/
+bin/
+db.json
